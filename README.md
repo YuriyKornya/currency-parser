@@ -17,5 +17,6 @@ The application fetches current exchange rates from the National Bank of Ukraine
 4. Run the application
 ## API
 | Method | URL | Description |
+|---|---|---|
 | GET | /currencies | Get current exchange rates |
 | POST | /currencies/save | Fetch and save rates to DB |
